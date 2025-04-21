@@ -5,7 +5,7 @@ import sys
 
 
 def geometric_progression(L1, L2, gap_length):
-    #to do: describe input parameters
+
     #n - the number of elements to fill the gap
     #r - constant ratio by which the element lengths increase by
     r = symbols('r', real=True)
@@ -38,7 +38,7 @@ def geometric_progression(L1, L2, gap_length):
 
 
 def arithmetic_progression(L1, L2, gap_length):
-    #to do: describe input parameters
+
     # n - the number of elements to fill the gap
     # d - common difference by which the element lengths increase by
 
