@@ -1,0 +1,12 @@
+S1,S2,L,Test_case
+2,10.125,14.25,Valid solution using geometric progression exists. S1 < S2
+10.125,2,14.25,Valid solution using geometric progression exists. S1 > S2
+2,3,10,No valid geometric progression solution. Arithmetic progression should be used. S1 < S2
+3,2,10,No valid geometric progression solution. Arithmetic progression should be used. S1 > S2
+2,3,4,Invalid gap length
+-3,-10,20,Invalid S1 and S2
+3,3,10,Invalid S1 and S2
+5,8,30,No valid geometric progression solution. Arithmetic progression should be used. S1 < S2
+2.5,3.5,7,Non-integer sizes
+1.5,4.5,19.5,Non-integer sizes and gap length
+2,3,5.1,Minimal gap length
